@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "admin": [
+    {
+      "username": "borhen",
+      "email": "borhendinDhibi@gmail.com",
+      "password": "123456",
+      "role": 0,
+      "id": 4
+    }
+  ],
+  "connectedUser": []
+}
